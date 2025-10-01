@@ -1,0 +1,19 @@
+
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* Estilos propios opcionales */
+body {
+  @apply font-sans;
+}
+
+.font-sans {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/*por si me olvide se ejecuta con "npm run dev"----
