@@ -11,8 +11,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 
 
 
-export default Main;*/
-// este esta bueno para una entrega formal....
+
 /*const Main = () => {
   const features = ["Rápido", "Responsivo", "Moderno", "Seguro"];
   const [showFeatures, setShowFeatures] = useState(true);
